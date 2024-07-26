@@ -214,8 +214,6 @@ for col in numerical_columns:
     plt.show()
 
 
-# In[ ]:
-
 
 
 
